@@ -29,7 +29,3 @@ Loop through identified entities and print out their text, label, start and end 
 Print out only the organizations (label "ORG") mentioned in the text.
 #### Highlight Entities
 Highlight entities in the original text by surrounding them with square brackets and their labels.
-
-### Output
-The script will print out the entity information, the organizations, and the highlighted text.
-```
