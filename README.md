@@ -1,7 +1,7 @@
-# Spacy Entity Recognition Example
+# Named Entity Recognition 
 ==============================
 
-## Filename: `spacy_example.py`
+## Filename: `named entity.py`
 
 ### Description
 This script uses the Spacy library to perform entity recognition on a sample text.
